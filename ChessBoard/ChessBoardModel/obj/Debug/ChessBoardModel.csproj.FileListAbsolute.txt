@@ -1,0 +1,7 @@
+C:\Users\agiro\source\repos\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.AssemblyReference.cache
+C:\Users\agiro\source\repos\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\Users\agiro\source\repos\ChessBoard\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+C:\Users\agiro\source\repos\ChessBoard\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+C:\Users\agiro\source\repos\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+C:\Users\agiro\source\repos\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.pdb
+C:\Users\agiro\source\repos\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.SuggestedBindingRedirects.cache
